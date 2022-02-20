@@ -55,7 +55,7 @@ async def main_idncoder():
                 time = datetime.datetime.now(pytz.timezone(f"{TIME_ZONE}"))
                 last_update = time.strftime(f"%d %b %Y at %I:%M %p")
                 xxx_idncoder += f"\n\n✔️ Last checked on: {last_update} ({TIME_ZONE})\n\n<i>♻️ Updates every 45 minutes - Powered By @AsadSupport</i>"
-                await app.edit_message_text(int(CHANNEL_OR_GROUP_ID), MESSAGE_ID, xxx_teletips)
+                await app.edit_message_text(int(CHANNEL_OR_GROUP_ID), MESSAGE_ID)
                 print(f"Last checked on: {last_update}")                
                 await asyncio.sleep(1500)
                         
