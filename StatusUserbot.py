@@ -1,3 +1,11 @@
+# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# Without Credit (Mother Fucker)
+# Rocks © @Dr_Asad_Ali © Rocks
+# Copyright (C) 2021 By @Itz_VeNom_xD 
+# Copyright (C) 2021 By @Dr_Asad_Ali
+# Copyright (C) 2021 By @HarshitSharma361
+
+
 import os
 import pytz
 import asyncio
@@ -37,7 +45,7 @@ async def status_checker():
                             checker_bot += f"\n\n🤖 **BOT**: @{bot}\n🔴 **STATUS**: down ❌"
                             for bot_admin_id in BOT_ADMIN_IDS:
                                 try:
-                                    await app.send_message(int(bot_admin_id), f"🚨 **announcement** 🚨\n\n» @{bot} is down** ❌")
+                                    await app.send_message(int(bot_admin_id), f"🚨 **ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛ ʙʏ @AsadSupport** 🚨\n\n» @{bot} ɪs ᴅᴏᴡɴ** ❌")
                                 except Exception:
                                     pass
                             await app.read_history(bot)
