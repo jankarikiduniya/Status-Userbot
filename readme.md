@@ -4,6 +4,8 @@
 
 <p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/26bb8c90759aef0c87245.jpg" width="400"></a></p>
 
+<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/7a35a9d947cc6d4e78329.jpg" width="400"></a></p>
+
 <p align="center">
     <a href="https://app.codacy.com/manual/jankarikiduniya/Status-Userbot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/jankarikiduniya/Status-Userbot"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/Status-Userbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
