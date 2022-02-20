@@ -1,0 +1,58 @@
+{
+    "name": "Rocks Bot Status",
+    "description": "A Powerful Rocks Bot Status Bot To Check Your Bot Is Alive Or Not, This Bot Status Bot Updates Every 45 Minutes & Runs For 24x7 Hours.",
+    "logo": "https://telegra.ph/file/de138de8fd880becb9cf1.jpg",
+    "repository": "https://github.com/jankarikiduniya/RocksBotStatus",
+    "keywords": [
+        "BotStatus",
+        "How to check your bots are alive or not",
+        "Up or down",
+        "Check status of bots",
+        "Telegram userbot",
+        "Pyrogram userbot"
+    ],
+    "env": {
+        "API_ID": {
+            "description": "Get from my.telegram.org/apps",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get from my.telegram.org/apps",
+            "required": true
+        },
+        "SESSION_NAME": {
+            "description": "A valid Pyrogram session name",
+            "required": true
+        },
+        "BOT_LIST": {
+            "description": "Your bot username list without '@' (Example: teletips1bot teletips2bot teletips3bot)",
+            "required": true
+        },
+       "CHANNEL_OR_GROUP_ID": {
+            "description": "Your channel's or group's Telegram id (Example: -1001246808642)",
+            "required": true
+        },
+       "MESSAGE_ID": {
+            "description": "Telegram id of message from your channel or group (Example: 10)",
+            "required": true
+        },
+        "BOT_ADMIN_IDS": {
+            "description": "Bot admin(s) id(s) (Example: 1357907531 2468097531 3579864213)"
+        },
+        "TIME_ZONE": {
+            "description": "Your time zone (Example: Asia/Kolkata)",
+            "required": true
+        }
+    },
+    "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
