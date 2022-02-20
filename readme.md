@@ -1,15 +1,15 @@
 <h1 align="center"><b>❤️ Bot Status Checker ❤️</b></h1>
 
-<h4 align="center">A Powerful Rocks Bot Status Bot To Check Your Bot Is Alive Or Not, This Bot Status Bot Updates Every 45 Minutes & Runs For 24x7 Hours.</h4>
+<h4 align="center">A Powerful Rocks Userbot Status Bot To Check Your Bot Is Alive Or Not, This Bot Status Bot Updates Every 45 Minutes & Runs For 24x7 Hours.</h4>
 
 <p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/26bb8c90759aef0c87245.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/jankarikiduniya/RocksBotStatus/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/jankarikiduniya/RocksBotStatus"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/RocksBotStatus?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/RocksBotStatus/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/RocksBotStatus?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/RocksBotStatus/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/RocksBotStatus?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/RocksBotStatus/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/RocksBotStatus?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/jankarikiduniya/Status-Userbot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/jankarikiduniya/Status-Userbot"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/Status-Userbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/jankarikiduniya/Status-Userbot/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/Status-Userbot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/jankarikiduniya/Status-Userbot/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/Status-Userbot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/jankarikiduniya/Status-Userbot/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/Status-Userbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
